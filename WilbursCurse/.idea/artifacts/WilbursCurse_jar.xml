@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact name="WilbursCurse:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/WilbursCurse_jar</output-path>
+    <root id="root">
+      <element id="archive" name="WilbursCurse.jar">
+        <element id="module-output" name="WilbursCurse" />
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
+        </element>
+      </element>
+      <element id="library" level="project" name="Maven: org.hamcrest:hamcrest-core:1.1" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-base:17.0.2" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-graphics:17.0.2" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-controls:win:17.0.2" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-base:win:17.0.2" />
+      <element id="library" level="project" name="Maven: junit:junit:4.10" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-controls:17.0.2" />
+      <element id="library" level="project" name="Maven: com.googlecode.json-simple:json-simple:1.1.1" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-graphics:win:17.0.2" />
+    </root>
+  </artifact>
+</component>
